@@ -1,0 +1,364 @@
+﻿Fix:
+- Lỗi out tool
+- bỏ cheat ad của buxp
+
+Update:
+Fix lỗi liên quan tới script PTCEvolution
+
+Update:
+
+Fix:  
+- Một số trang Buxshost không click ads như (davidbux, shareibux)
+- buxp.org
+- Fix lỗi Phần socks sai vị trí ở 1 số máy
+- http://www.arcklick.com
+- http://www.clixzor.com
+- http://www.ptcleader.com
+- http://zetabux.com
+- http://jillsclickcorner.com
+- Ghi nhớ cookie cho script PTCEvolution.
+
+Check lại ok:
+- http://www.linkut.eu
+- http://crasbux.info
+- http://buxestia.com
+- https://adzsonic.com
+- https://adsroyal.com
+- http://jillsclickcorner.com
+- http://www.ptcleader.com/
+- http://www.offernation.com
+- http://bux.bz
+- http://zetabux.com
+
+sunbux -> web die
+
+Update:
+
+Fix lỗi script Aurora.
+
+Update
+Fix 
+http://www.judoclix.info/
+www.paidtoclick.in
+
+Update:
+Fix lỗi các site:
+http://webof-sar.ru
+http://kuban-bux.ru
+http://staffbux.ru
+
+Update :
++ http://www.evebux.com/
++ http://www.cash-harvest.com 
++ http://wmreklama.com
++ fix Chức năng xóa site trong tất cả profile.
++ fix lỗi nhập captcha incentive liên tục
+
+Update:
+- Fix: 
++ buxp.org, 
++ buxboost
++ http://bagthebucks.com/account
++ http://www.excellentclix.info
++ http://buxestia.com
++ http://paidtoclickad.com
+
+- Cập nhật min pay PTCEVolution.
+- Click ads fixed cho PTCEVolution trước
+- Hỗ trợ chức năng cho các chủ hội nào mua tool cho ref được quyền reset password cho account của ref đó (nếu cần pm mình để biết chi tiết)
+- Copy note khi copy sites qua profile khác
+
+
+Update:
+Fix: Lỗi ko lưu được nhiều profile
+
+Update:
+Fix: 
+- Chỉnh lại hiện thời gian ở last run
+- Schedule
+-http://www.cashadda.com
+-http://www.roclix.com
+- http://www.myadsclick.com
+- http://www.clixseries.com
+- http://www.sharingbux.com
+
+
+-Bỏ click exchange cho incentria.
+
+
+http://thebuxer.com -> dùng link ko có https
+
+Update:
+- Fix: Add to Other Profile.
+- Thứ tự site trong chức năng export sẽ giống như trên tool.
+- Cho phép thiệt lập thời gian dừng cho profile. VD 18:30-18:40 -> chạy lúc 18h30 và dừng lúc 18h40
+- Thêm chức năng copy site name: chọn nhiều dòng -> chuột phải-> copy site name
+- Thêm cột thời gian chạy site (Có thể ẩn hiện trên menu view)
+
+
+Update:
+- Cho phép sắp xếp các tab profile (Cầm chuột kéo như firefox)
+- Cho phép sắp xếp thứ tự site trong profile (Cấm chuột kéo lên xuống), 
+	Lưu ý:-  khi bạn đã nhấn theo cột để sắp xếp, thì chức năng sắp xếp bằng tay sẽ không hoạt động. 
+		- Nhận nút refresh bên góc phải để trở về trạng thái mặc định ban đầu, thì bạn sẽ được cho phép sắp xếp lại.
+	
+
+Update:
+
+- Fix lỗi thông tin Sock đè lên thông tin User agent lúc update site.
+- Tool sẽ chạy thêm 1 lần nếu lỗi Could not load page hoặc Inner Error. 
+
+Fix:
+centrpay.ru (Russ)
+kap-zar.ru (Russ)
+severodvinsk-bux.ru (Russ)
+
+
+Update:
+
+Cho phép thêm trùng site trong profile, nếu trùng file sẽ có bảng thông báo hỏi bạn có chắc muốn thêm không.
+
+Fix:
+
+http://gmgbux.com (Custom)
+http://www.quickbuxptc.com (Gen4) (Captcha loai moi)
+https://adzsonic.com (Arora)
+
+kap-zar.ru (Russ)
+http://severodvinsk-bux.ru (Russ)
+
+Check lai ok:
+http://clix6.com (Shiftcode)
+http://www.buxoverflow.com (Arora)
+http://www.exclusive-ptc.com (Arora)
+https://wad.ojooo.com/ (Gen4)
+http://www.trustedbux.com (Gen4)
+
+Update
+
++ Cập nhật lại Gen4
+
++Hỗ trợ PTCShop, các site được test:
+- http://www.optickbux.com
+- http://www.rapidptc.com
+- http://mycrystalbliss.com
+
+Update
+http://www.exabux.com (Gen4)
+http://www.sheer-fresh.net  (Arora)
+http://maisbux.com (Custom)
+http://abc-ptc.info (Arora)
+http://www.raptorhits.info (Arora)
+http://www.successbux.com (Arora)
+http://www.vilvin.net (Custom)
+http://click-world.info (Arora)
+
+Update
+Fix:
+http://pureclix.com (PTCE)
+http://www.linkut.eu (PTCE)
+http://clixdo.com (PTCE)
+
+Update
+Fix lỗi một số site ptcevolution
+Tự động sửa link nếu thiếu hoặc dư www. (tốt nhất các bạn nên điền đúng link :D)
+Fix:
+www.buxoverflow.com (aurora)
+http://maisbux.com (custom) 
+http://adsclickers.com (PTE)
+http://www.paidhitz.com (Aurora)
+http://www.raptorhits.info (Aurora)
+http://www.brandbux.com    (Aurora) 
+http://www.cashons.com (Aurora)
+
+
+Check lại ok:
+http://buxp.org (custom)
+http://ptcsolution.com (PTCE)
+http://clixdo.com (PTCE)
+http://www.probux.com (dùng link http thôi)
+
+ http://www.trustedbux.com (Gen4) Đăng nhập bình thường.
+
+Nhớ dùng link như mình đưa.
+Update
+- Fix lỗi chung cho các site auroa và buxhost
+
+
+Update
+- Fix lỗi fix lỗi socks (đã test và ổn định)
+- Fix ebuxer.
+
+
+Update:
+- Fix http://www.nerdbux.com
+- Fix http://www.probux.com/
+
+
+Về probux mình sẽ chạy hằng ngày để test xem có bị bạn ko (mình cũng mới chỉnh lại để ko bị ban, nhưng ko chắc), mình sẽ test trong vòng 1 2 tuần.
+Update:
+- Fix http://www.cashnhits.com 
+- Fix http://www.nerdbux.com
+
+Update:
+- Thêm tùy chọn, ẩn hiện password.
+- Fix hiện tượng 1 vài site vô  bằng trình duyệt được, nhưng tool báo Could not load page.
+Fix:
+http://refbacknclix.com
+http://www.lougle.net
+http://www.clixslife.com
+http://center-seo.ru
+http://seo-zel.net
+http://www.vilvin.net
+
+Update
+- Fix nạp thẻ cào
+- Fix site:http://seo-zel.net/
+-Fix cashnhits.com
+
+Update
+- Fix lỗi CPU 100% khi chạy dùng socks
+- Fix site: http://buxlife.co (NTen)
+
+Update
+- Fix lỗi tool khởi động nhanh hơn, một số lỗi nhỏ với socks.
+- Site NTen tự động chọn giờ 19h khi chạy lần đầu tiên.
+
+Các site được fix:
+http://center-seo.ru (Russ)
+http://cash2earn.com (Aruroa)
+http://www.vilvin.net (Custom)
+http://platinclix.com (Gen4)
+http://clixten.info (Aurora)
+http://www.fast2ptc.info (Aurora)
+http://unicornsummerptc.info	 (Aurora)
+http://www.7starptc.com (Aurora)
+http://www.storybux.com		 (Aurora)
+http://www.successbux.com	(Aurora)
+
+Các site check lại Ok:
+http://wmastra.ru (Russ)
+http://www.clixzor.com (PTCE)
+http://www.geebux.com (NTen)
+http://kuban-bux.ru (Russ)
+http://staffbux.ru (Russ)
+http://wmreklama.com (Russ)
+http://5centminimum.com (ShiftCode)
+
+Update
+- Thêm thanh toán tự động paypal (sau khi bạn giao dịch qua paypal, copy transaction id và điền vào form của tool)
+- Thêm phím tắt F1, chạy/dừng các site đang được chọn.
+
+Fix: http://www.fast2earn.info (Aurora)
+Fix: http://www.clickfair.com (PTCEvolution)
+Fix: http://wmastra.ru (Russ)
+Fix: http://wmreklama.com (Russ)
+Fix: http://center-seo.ru (Russ)
+Fix: http://www.flamecash.org (Incentive)
+Fix: http://www.buxense.com (Incentive)
+Fix: http://buxboost.com (Incentive)
+Fix: http://ptcsolution.com (http://ptcsolution.com)
+
+Dùng link: https://www.clixseries.com (PTCEvolution)
+Dùng link: https://www.clixboom.com (PTCEvolution)
+
+Check lại ok: http://www.clixplanet.com (Incentive)
+
+Các bạn nhớ kiểm tra link phải đúng như link mình đưa.
+
+Update
+- Fix chức năng nạp thẻ 
+Update
+- Tích hợp thanh toán tự động bằng thẻ cào của các mạng Vina, Viettel, Mobile. Khuyến khích dùng Viettel.
+- Vào phần Help -> Nạp thẻ cào hoặc
+- Page Đăng nhập -> Nạp thẻ. Ở page này, bạn có thể tạo tài khoản mới nếu nhập email mới.
+
+Update:
+- http://addcycle.com (Gen4)
+- http://www.superpay.me/ (Shiftcode)
+- http://grifon-bux.ru (Russ)
+
+Update
+- Fix loi Can not load page cho Socks5/4
+- Thêm thông tin port ở cột proxy/socks.
+- Thêm thông tin Update của tool ở Menu Help => Update Information.
+Update
+- Fix lỗi không hiện tiếng việt khi dùng chức năng extend license.
+- Fix lỗi Could not load page do tool.
+
+Update
+
+- Fix Tool chạy nhẹ hơn (test trên máy ảo win xp ram 512 , 1 profile  50 process, 1 profile 10 process, chạy vẫn ok).
+- Fix lỗi không đổi được User Agent
+- Fix chức năng check Proxy/Sock  (thông báo "Ok" là proxy/sock đó chạy được với tool).
+
+Update
+- Fix site Maisbux
+- Thông tin ad click được chuyển về phía sau, để dễ dàng việc sắp xếp
+- Không cho thêm site trong nhau trong 1 profile.
+- Sửa 1 số lỗi bên trong.
+
+Update:
+
+- Fix site trubux
+- Thêm chức năng check loại script
+- fix cashnhit
+
+Update
+
+- Fix lỗi site Aurora cho các bạn bi Inner Error nhiều site.
+
+Update
+- Fix cashnhit
+- Danh sách site Nga và custom ở phần menu Help (hiện tại mình chưa check hết được tất cả các site trong list đó có ok hết không).
+
+Update
+- http://www.ottoclix.com
+- https://thebuxer.com  (dùng link https)
+- http://www.trubux.com
+- http://ebuxer.com (dùng link http)
+- http://www.clixslife.com
+- http://tasks4dollars.com
+- http://www.bestugaptc.com 
+- https://www.clixseries.com (link https)
+
+Update:
+
+- Fix site neobux.
+- Tùy chọn Nhập nháy tool khi có capcha (Options -> Flash Input Captcha)
+- Nút bỏ check tất cả site trong profile, 
+- Click trên từng cột để sắp xếp theo cột đó, click nut Refresh ở góc phải để trở về sắp xếp mặc định ban đầu.
+- Khi xóa sẽ có tùy chọn để xóa site cùng tên trong tất cả profile.
+- Khi chuyển các site sang profile khác có tùy chọn
+	+ Only add if site is not existed: chỉ add vô profile mới nêu profile đó không chưa site đó
+	+ Keep site information: lấy thông tin cũ của site thêm vào profile mới
+	+ Use destination profile information: Sử dụng thông tin site đầu tiên của profile mới 
+	
+
+Update:
+
+- Fix tiếp lỗi tool chạy ổn định hơn.
+- Thêm cột Note
+- Cho phép ẩn hiện cột Proxy,Last Amount, Note trong menu View.
+
+Update:
+- Fix một số lỗi liên quan tới Aurora.
+- Fix một số lỗi tool bị tắt 
+- Có tùy chọn tự vượt captcha login buxhost hoặc nhập captcha bằng tay. (Nghe 1 số bạn nói, Máy bạn nào yếu, tự vượt captcha buxhost có thể làm đứng chương trình)
+
+Update:
+- Hiện IP
+- Fix một số lỗi tool bị tắt 
+- Danh sách các site Nga và Custom (sẽ cập nhật sau)
+
+Update:
+- Thêm phần Last Amount (Số tiền ngày hôm qua), nếu Last Amount >= Amount, thì phần Last Amount sẽ được tô đỏ
+- Hiện thông tin tổng số site, tổng số tiền, tổng số site đang chạy trong profile
+- Fix Các site cần email, như tool cũ. 
+
+Update:
+- Hiện số ad đã click được
+- Fix một số lỗi nhỏ.
+
+Update:
+Fix hầu hết những vấn đề về tool khi chạy không ổn định.
