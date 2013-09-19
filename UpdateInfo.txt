@@ -1,4 +1,9 @@
-﻿Fix:
+﻿Update:
+- Fix PTCEvolution (wrong host)
+- http://www.nerdbux.com
+- http://www.the-bux.net
+
+Fix:
 - Lỗi out tool
 - bỏ cheat ad của buxp
 
