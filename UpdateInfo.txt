@@ -1,4 +1,10 @@
 ﻿Update:
+ Fix: 
+ - http://www.rewardingways.com (ShiftCode)
+ - http://ptc-moneymakers.com (PTCShop)
+ - http://newbuxproject.com (PTCShop)
+
+Update:
 - Fix PTCEvolution (wrong host)
 - http://www.nerdbux.com
 - http://www.the-bux.net
