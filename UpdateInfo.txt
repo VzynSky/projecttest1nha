@@ -1,4 +1,15 @@
-﻿Update:
+﻿Fix and Update:
+
+ - http://www.optickbux.com
+ - reffbux.com (custom)
+ - http://gmgbux.com (custom, them mini-surf, mình ko cho tool surft hết , nếu bạn muốn surf hết thì chạy lại)
+ - https://clicks-fx.com (custom, them surf, mình ko cho tool surft hết , nếu bạn muốn surf hết thì chạy lại)
+ - http://www.vilvin.net (custom)
+ - http://www.hunbux.eu (custom)
+ - http://www.hunbuxlight.com (custom)
+ - https://addcycle.com (Gen4)
+ - http://uspeh-bux.ru (Russ)
+Update:
  Fix: 
  - http://www.rewardingways.com (ShiftCode)
  - http://ptc-moneymakers.com (PTCShop)
