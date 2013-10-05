@@ -1,4 +1,13 @@
-﻿- cashnhit
+﻿Update:
+Fix lỗi Could not load page (nhưng vào bằng trình duyệt được)
+http://www.nocturnalemail.biz (CashCrushader)
+http://easy-ptr.com (CashCrushader)
+http://happypigmail.com (CashCrushader)
+http://www.cashdavid.com (PTCShop)
+http://www.clixzor.com (PTCE)
+
+Update:
+- cashnhit
 - http://www.arcklick.com
 - http://gmgbux.com
 - Probux
