@@ -1,4 +1,8 @@
-﻿Update:
+﻿Update: 
+
+- http://www.clixzor.com (PTCE)
+
+Update:
 Fix lỗi Could not load page (nhưng vào bằng trình duyệt được)
 http://www.nocturnalemail.biz (CashCrushader)
 http://easy-ptr.com (CashCrushader)
