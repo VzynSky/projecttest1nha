@@ -1,4 +1,11 @@
-﻿Update: 
+﻿Update:
+Fix lỗi nhỏ cho script PTCE (http://www.clixvo.com,http://www.thebuxer.com,https://yougetprofit.com,http://www.ptcrs.com/)
+Fix: http://www.clickforearn.com (Aur0ra)
+Fix: http://www.arcklick.com/ (Aur0ra) (bo qua cheat link)
+
+
+
+Update: 
 
 - http://www.clixzor.com (PTCE)
 
