@@ -1,4 +1,7 @@
 ﻿Update:
+Fix script PTCE, bắt nhập captcha trước khi vào web.
+
+Update:
 - Fix lỗi không thể kết nối internet khi đăng nhập
 - Fix http://www.primsia.com
 
