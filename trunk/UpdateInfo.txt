@@ -1,4 +1,9 @@
 ﻿Update:
+- Fix lỗi không thể kết nối internet khi đăng nhập
+- Fix http://www.primsia.com
+
+
+Update:
 Fix lỗi nhỏ cho script PTCE (http://www.clixvo.com,http://www.thebuxer.com,https://yougetprofit.com,http://www.ptcrs.com/)
 Fix: http://www.clickforearn.com (Aur0ra)
 Fix: http://www.arcklick.com/ (Aur0ra) (bo qua cheat link)
