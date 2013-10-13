@@ -1,4 +1,23 @@
 ﻿Update:
+- Khi update site, nhấn Enter để Ok, Esc để Thoát.
+- Thêm tùy chọn copy Socs/Proxy qua profile mới hay ko.
+- Thêm Username,password cho proxy/socks
+- Cơ chế plugin (sẽ có bài hướng dẫn chi tiết từ a-z sau)
+- Fix:
+	+ mediaclickads.com
+	+ https://reffbux.com
+- Thêm:
+	+ http://100poodoff.ru (Russ)-> nên test trước bằng acc giả để xem có ban ko.:|
+	+ http://prom247.com 
+	
+Về phần site: http://prom247.com, đây là site mình dùng để test plugin. 
+- Sau khi add site http://prom247.com vào tool, phần Script type: chọn PluginCustom, Phần Plugin chọn All1Tool- Prom247.
+
+- Bạn nào muốn Xem source code file plugin có thể vào link sau: https://www.dropbox.com/sh/pfphoxdjvez3yr7/mDU69PBIh4, down file PluginTest.rar, trong đó chứa toàn bộ project để tạo plugin.
+- 
+	
+	
+Update:
 Fix script PTCE, bắt nhập captcha trước khi vào web.
 
 Update:
