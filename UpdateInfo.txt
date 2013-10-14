@@ -1,4 +1,7 @@
 ﻿Update:
+Fix lỗi ko thể load captcha.
+
+Update:
 - Khi update site, nhấn Enter để Ok, Esc để Thoát.
 - Thêm tùy chọn copy Socs/Proxy qua profile mới hay ko.
 - Thêm Username,password cho proxy/socks
