@@ -1,4 +1,2 @@
-﻿Buxhost chạy từ 3-5 process để tránh tình trạng block IP.
-Có chức năng chỉ chạy các site uncheck như tool cũ, vô phần Option để chọn.
-Ctr+A để chọn tất cả các site.
-Click nút nhỏ ở góc trên phải của tool, để thu nhỏ về system tray.
+﻿Nếu bạn biết C# và html,hãy tự viết plugin dễ dàng cho tool, hd chi tiết: http://nhabuiduc.wordpress.com/
+Nếu bạn biết C# và html,hãy tự viết plugin dễ dàng cho tool, hd chi tiết: http://nhabuiduc.wordpress.com/
