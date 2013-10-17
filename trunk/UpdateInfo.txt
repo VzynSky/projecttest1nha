@@ -1,4 +1,11 @@
 ﻿Update:
+Fix 
+- Probux,
+- vilvin,
+- hunbux,
+- reffbux
+
+Update:
 Fix lỗi ko thể load captcha.
 Fix lỗi copy username qua profile mới.
 
