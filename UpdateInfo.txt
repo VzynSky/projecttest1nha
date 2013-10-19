@@ -1,9 +1,16 @@
 ﻿Update:
+-Cas#hnhit
+-luu cookie mai#sbux
+- fix ptc#rs.com
+
+
+Update:
 Fix 
 - Probux,
 - vilvin,
 - hunbux,
 - reffbux
+
 
 Update:
 Fix lỗi ko thể load captcha.
