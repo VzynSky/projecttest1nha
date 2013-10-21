@@ -1,4 +1,8 @@
 ﻿Update:
+- Sort dựa trên Amount
+- Fix lỗi Could not load page (trong khi trên web vẫn vô được bình thường)
+
+Update:
 - Chức năng chuyển số tiền thành các mã code, ví dụ bạn send qua paypal 3 usd, khi bạn nhập transaction Id vào, chương trình sẽ trả về cho bạn 6 mã code (mỗi mã 10 ngày).
   Vào phần help -> Get Codes. Chỉ áp dụng cho paypal và PM. Để gia hạn bằng mã code, vào phần Paypal/Code.
 - Thêm thanh phần trăm vào phần amount/minpay.
