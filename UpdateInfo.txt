@@ -1,4 +1,10 @@
 ﻿Update:
+Fix vilvin
+Thêm t@pbux (Dùng plugin, có source nằm trong thư mục plugins)
+Đổi màu phần amount
+
+
+Update:
 - Sort dựa trên Amount
 - Fix lỗi Could not load page (trong khi trên web vẫn vô được bình thường)
 
