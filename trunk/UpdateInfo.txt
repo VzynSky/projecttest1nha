@@ -1,4 +1,8 @@
 ﻿Update:
+- Fix plugin không load được
+- Chuyển về giao diện cũ cho Amount/Min Pay
+
+Update:
 Fix vilvin
 Thêm t@pbux (Dùng plugin, có source nằm trong thư mục plugins)
 Đổi màu phần amount
