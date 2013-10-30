@@ -1,4 +1,12 @@
 ﻿Update:
+- Fix R3ffbux
+- Fix T@pbux
+- Chức năng import/export được sửa lại để lưu hết thông tin 
+	+ có tùy chọn lưu username/password, proxy/socks, Amount hay không
+	+ có tùy chọn export tất cả site trong profile hoặc các site được chọn.
+- Chức năng lựa chọn kiểu thê hiện Amount (bình thường, hoặc thanh phần trăm)
+
+Update:
 - Fix plugin không load được
 - Chuyển về giao diện cũ cho Amount/Min Pay
 
