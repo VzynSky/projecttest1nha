@@ -1,4 +1,7 @@
 ﻿Update:
+- Update import danh sách các site theo từng dòng
+
+Update:
 - Fix R3ffbux
 - Fix T@pbux
 - Chức năng import/export được sửa lại để lưu hết thông tin 
