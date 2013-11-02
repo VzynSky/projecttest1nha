@@ -1,4 +1,9 @@
 ﻿Update:
+Fix: http://ptcc0rner.com (ShiftCOde)
+Fix: http://easybitc0.in (Incentive)
+Them: W0rdlinx (Plugin)
+
+Update:
 - Update import danh sách các site theo từng dòng
 
 Update:
