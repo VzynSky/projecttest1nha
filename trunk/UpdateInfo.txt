@@ -1,4 +1,8 @@
 ﻿Update:
+- Fix lỗi script Incentive
+
+
+Update:
 Fix: http://ptcc0rner.com (ShiftCOde)
 Fix: http://easybitc0.in (Incentive)
 Them: W0rdlinx (Plugin)
