@@ -1,4 +1,18 @@
-﻿Update:
+﻿Update 2.74:
+- Chức năng thay đổi 1 loạt proxy của các sites thông qua file text.
+     + Định dạng file mỗi dòng sẽ là: site port username password
+	 Ví dụ:
+	 10.9.2.1 808 username pass
+	10.9.2.1 222 username pass
+	10.9.2.1 1313 username pass
+	Mỗi dòng tương ứng với 1 site, tính từ trên xuống.
+	
+- Fix: se0-zel.net
+- adbuxmedia.com
+- succe$$bux.com	
+- clixgod.com
+
+Update:
 - Fix lỗi script Incentive
 
 
