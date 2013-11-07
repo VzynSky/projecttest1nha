@@ -1,4 +1,10 @@
-﻿Update 2.74:
+﻿Update 2.75:
+
+-N0ulinx (plugin)
+- clixzor - click fixed ad sau cùng.
+- fix chức năng thay đổi 1 loạt proxy dựa trên các site đã chọn
+
+Update 2.74:
 - Chức năng thay đổi 1 loạt proxy của các sites thông qua file text.
      + Định dạng file mỗi dòng sẽ là: site port username password
 	 Ví dụ:
