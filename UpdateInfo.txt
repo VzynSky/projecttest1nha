@@ -1,4 +1,5 @@
-﻿Update 2.75:
+﻿Update 2.76:
+Update 2.75:
 
 -N0ulinx (plugin)
 - clixzor - click fixed ad sau cùng.
