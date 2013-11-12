@@ -1,4 +1,10 @@
-﻿Update 2.76:
+﻿Update 2.77:
+- Fix PTC Evolution
+- Khi import thêm tùy chọn ko import những site có sẵn trong list
+- Sửa lỗi nhỏ cho site N0ulinx
+
+Update 2.76:
+
 Update 2.75:
 
 -N0ulinx (plugin)
