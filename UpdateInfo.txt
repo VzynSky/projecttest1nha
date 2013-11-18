@@ -1,4 +1,17 @@
-﻿Update 2.77:
+﻿Update 2.78:
+- Cập nhật gia hạn trên tool qua Web Money. Sau khi bạn chuyển tiền cho mình, bạn sẽ thấy có 1 dòng thông tin : 
+-----------------------------
+You can see transfer details here:
+https://mini.wmtransfer.com/operation.aspx?id=905956805
+----------------------------------
+Thì bạn dùng số id 905956805 để gia hạn vào tool. 
+
+Trong trường hợp, bạn ko thấy dòng như trên, thì bạn vào trang web money, chọn chi tiết giao dịch mà bạn đã chuyển tiền cho mình, thì trên thanh url khúc cuối cũng sẽ có id, bạn dùng id đó để nhập vào tool gia hạn
+
+- Fix lỗi nhỏ cho N0ulinx
+- Fix lỗi nhỏ cho http://hitbux.ru 
+
+Update 2.77:
 - Fix PTC Evolution
 - Khi import thêm tùy chọn ko import những site có sẵn trong list
 - Sửa lỗi nhỏ cho site N0ulinx
