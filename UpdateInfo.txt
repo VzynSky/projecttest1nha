@@ -1,4 +1,8 @@
-﻿Update 2.78:
+﻿Update 2.80:
+
+- Fix lỗi tool
+
+Update 2.79:
 Fix:
 
 http://clicksp0ns0r.ru (Plugin - có source code) 
