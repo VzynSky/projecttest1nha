@@ -1,4 +1,16 @@
 ﻿Update 2.78:
+Fix:
+
+http://clicksp0ns0r.ru (Plugin - có source code) 
+http://se0-viprob0t.ru (Plugin - có source code)
+http://se0c0lt.com (Plugin - có source code)
+
+- reffbux
+- N0ulinx
+
+
+
+Update 2.78:
 - Cập nhật gia hạn trên tool qua Web Money. Sau khi bạn chuyển tiền cho mình, bạn sẽ thấy có 1 dòng thông tin : 
 -----------------------------
 You can see transfer details here:
