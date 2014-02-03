@@ -1,4 +1,9 @@
-﻿Update 2.80:
+﻿Update 2.81:
+-Thay đổi bên trong chương trình 1 chút, có thể ko ổn định.
+-Kiểm tra ad PTCE có chứa display:none
+-Có option tắt tự học captcha (turn off captcha learning)
+
+Update 2.80:
 
 - Fix lỗi tool
 
