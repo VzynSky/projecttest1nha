@@ -1,4 +1,6 @@
-﻿Update 2.81:
+﻿Update 2.82:
+- Fix NTen (test trên site 0ptib4x.)
+Update 2.81:
 -Thay đổi bên trong chương trình 1 chút, có thể ko ổn định.
 -Kiểm tra ad PTCE có chứa display:none
 -Có option tắt tự học captcha (turn off captcha learning)
