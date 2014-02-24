@@ -1,4 +1,22 @@
-﻿Update 2.82:
+﻿Update 2.83
+Fix:
+http://www.ptcsmarty.com (NTen)
+http://www.ptcultimate.com (NTen) (co click Grid)
+http://www.primsia.com (Nten)
+http://pitbux.com (NTen)
+http://www.levelclix.com (Incentive)
+http://www.winnersbux.com (Incentive) (co click grid)
+http://buxp.org	(plugin custom)
+http://www.hyperads.net  (PTCEvo)
+https://www.noulinx.com (Plugin custom)
+http://legacyclix.com (PTCEvo)
+
+Fix vài lỗi về save profile.
+
+(Thay đổi bên trong chương trình 1 chút, có thể ko ổn định.)
+
+
+Update 2.82:
 - Fix NTen (test trên site 0ptib4x.)
 Update 2.81:
 -Thay đổi bên trong chương trình 1 chút, có thể ko ổn định.
