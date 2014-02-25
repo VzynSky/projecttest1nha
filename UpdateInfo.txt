@@ -1,4 +1,7 @@
-﻿Update 2.83
+﻿Update 2.84
+Sửa lỗi login failed
+
+Update 2.83
 Fix:
 http://www.ptcsmarty.com (NTen)
 http://www.ptcultimate.com (NTen) (co click Grid)
