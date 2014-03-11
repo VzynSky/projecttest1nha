@@ -1,4 +1,21 @@
-﻿Update 2.84
+﻿Update 2.85
+
+Về lỗi các site tự động nhân đôi, bạn nào biết chính xác làm sao để phát sinh lỗi đó thì email 
+hugodichoi@gmail.com chỉ ra các bước để tạo ra lỗi đó, rồi mình fix, máy mình ko bị nên ko biết fix ra sao.
+
+http://wad.ojooo.com (Gen4)
+PTCE: 
+http://www.nerdbux.com
+http://www.fosclix.com
+http://www.clixbb.com
+http://www.kunbux.com
+http://www.clickpayer.com
+http://www.buxgator.com
+http://clixten.info
+
+fix - 1 số lỗi nhỏ về buxhost
+
+Update 2.84
 Sửa lỗi login failed
 
 Update 2.83
