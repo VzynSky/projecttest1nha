@@ -1,4 +1,11 @@
-﻿Update 2.85
+﻿Update 2.86
+
+Fix các site PTCEvolution, bao gồm cả: kunbux.com, advuze.com, clikz4freakz.com ...  (Các site dạng PTCEvolution mình mới viết lại cho version mới, nếu có các site cũ version trước click được mà tool version này không click được, thì các bạn vào Option-> Use Old Evolution Script thử xem sao)
+
+Fix: noulinx
+
+
+Update 2.85
 
 Về lỗi các site tự động nhân đôi, bạn nào biết chính xác làm sao để phát sinh lỗi đó thì email 
 hugodichoi@gmail.com chỉ ra các bước để tạo ra lỗi đó, rồi mình fix, máy mình ko bị nên ko biết fix ra sao.
