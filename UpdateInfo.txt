@@ -1,4 +1,8 @@
-﻿Update 2.86
+﻿Update 2.87
+
+Chuyển về script cũ mặc định cho site Evolution, site nào chạy ko được thì chọn BetaEvolution50 thử xem sao :)
+
+Update 2.86
 
 Fix các site PTCEvolution, bao gồm cả: kunbux.com, advuze.com, clikz4freakz.com ...  (Các site dạng PTCEvolution mình mới viết lại cho version mới, nếu có các site cũ version trước click được mà tool version này không click được, thì các bạn vào Option-> Use Old Evolution Script thử xem sao)
 
