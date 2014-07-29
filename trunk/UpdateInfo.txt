@@ -1,4 +1,12 @@
-﻿Update 2.87
+﻿Update 2.88
+
+- Fix lỗi site bị nhân đôi ở một số bạn
+- Fix một số lỗi liên quan đến socks
+- Fix một số lỗi để tool chạy ổn định hơn
+
+Thông báo nhỏ: Mình cho phép các bạn trả bao nhiêu thì sử dụng bấy nhiêu ngày theo tỉ lệ (1.5 usd/30 ngày) để giúp một số bạn ko đủ 1.5, nhưng có nhiều bạn lợi dụng vậy send quá ít VD 0.01 USD :| . Nên từ nay mình sẽ đặt mức min của tool là 0.25 (5 ngày). Bạn nào send < 0.25 mình sẽ ko gia hạn và ko hoàn lại.
+
+Update 2.87
 
 Chuyển về script cũ mặc định cho site Evolution, site nào chạy ko được thì chọn BetaEvolution50 thử xem sao :)
 
