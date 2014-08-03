@@ -1,4 +1,9 @@
-﻿Update 2.88
+﻿Update 2.89
+- Fix lỗi chiếm vùng nhớ, khiến tool bị out
+- Fix lỗi ko xóa được profile
+- Fix lỗi ko save User Agent.
+
+Update 2.88
 
 - Fix lỗi site bị nhân đôi ở một số bạn
 - Fix một số lỗi liên quan đến socks
