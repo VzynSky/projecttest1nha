@@ -1,4 +1,7 @@
-﻿Update 2.89
+﻿Update 2.90
+- Fix lỗi không Run All ( nếu dùng option Only Run Unchecked sites - do bản trước mình quên test)
+
+Update 2.89
 - Fix lỗi chiếm vùng nhớ, khiến tool bị out
 - Fix lỗi ko xóa được profile
 - Fix lỗi ko save User Agent.
