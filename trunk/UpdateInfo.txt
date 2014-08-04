@@ -1,4 +1,7 @@
-﻿Update 2.90
+﻿Update 2.91
+- Fix cho tool thêm ổn định.
+
+Update 2.90
 - Fix lỗi không Run All ( nếu dùng option Only Run Unchecked sites - do bản trước mình quên test)
 
 Update 2.89
