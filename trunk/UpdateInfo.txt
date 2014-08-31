@@ -1,4 +1,6 @@
-﻿Update 2.92
+﻿Update 2.93
+- Fix PTCE
+Update 2.92
 - Fix ko lưu được Setting (Thứ tự profile, ....)
 
 Update 2.91
