@@ -1,4 +1,4 @@
-﻿Thông báo 1: Phiên bản mới nhất là 2.93
+﻿Thông báo 1: Phiên bản mới nhất là 2.94
 Thông báo 2: 0.25USD là $ tối thiểu để bạn gia hạn tool (tránh tình trạng 1 số bạn gia hạn 0.01$) 
 Có chức năng chỉ chạy các site uncheck như tool cũ, vô phần Option để chọn.
 Ctr+A để chọn tất cả các site.

@@ -1,4 +1,12 @@
-﻿Update 2.93
+﻿Update 2.94:
+- Hỗ trợ SSH ngay trong tool
+- Có thay đổi bên trong chức năng socks 1 chút 
+- Có kèm theo chương trình nhỏ để check SSH và Socks, cho phép import hoặc kéo thả thông tin socks/ssh từ tool đó vào All1 
+- Link hướng dẫn với chương trình check socks/ssh : https://www.youtube.com/watch?v=6-50uf3ocFQ
+- Link down chương trình SSH/Socks Checker: http://www.mediafire.com/download/87gthf0xrhwuiza/SockSSHChecker.rar
+Chú ý: SSH/Socks Checker này có thể chạy chậm hơn so với các loại tool khác :)
+
+Update 2.93
 - Fix PTCE
 Update 2.92
 - Fix ko lưu được Setting (Thứ tự profile, ....)
