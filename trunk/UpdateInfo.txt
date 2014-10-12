@@ -1,4 +1,8 @@
-﻿Update 2.94:
+﻿Update 2.95:
+- Fix lỗi nhỏ liên quan đến socks (nếu vẫn bị lỗi so với phiên bản trước về socks, bạn có thể email cho mình để thông báo, thanks)
+
+
+Update 2.94:
 - Hỗ trợ SSH ngay trong tool
 - Có thay đổi bên trong chức năng socks 1 chút 
 - Có kèm theo chương trình nhỏ để check SSH và Socks, cho phép import hoặc kéo thả thông tin socks/ssh từ tool đó vào All1 
