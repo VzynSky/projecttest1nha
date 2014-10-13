@@ -1,4 +1,7 @@
-﻿Update 2.95:
+﻿Update 2.96:
+- Hỗ trợ import cho proxy
+- Fix lỗi nhỏ liên quan đến socks
+Update 2.95:
 - Fix lỗi nhỏ liên quan đến socks (nếu vẫn bị lỗi so với phiên bản trước về socks, bạn có thể email cho mình để thông báo, thanks)
 
 
