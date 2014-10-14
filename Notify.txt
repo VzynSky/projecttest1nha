@@ -1,4 +1,4 @@
-﻿Phiên bản mới nhất là 2.96
+﻿Phiên bản mới nhất là 2.97
 Tool đã hỗ trợ SSH 
 Hỗ trợ import socks/ssh/proxy cho nhiều sites
 Ctr+A để chọn tất cả các site.
