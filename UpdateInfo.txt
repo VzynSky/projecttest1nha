@@ -1,4 +1,7 @@
-﻿Update 2.97:
+﻿Update 2.98:
+- Fix PTC E
+
+Update 2.97:
 - Fix lỗi ko thể update nhiều sites
 Update 2.96:
 - Hỗ trợ import cho proxy
