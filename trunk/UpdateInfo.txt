@@ -1,4 +1,11 @@
-﻿Update 2.99:
+﻿Update 2.100
+- Fix lỗi ko lấy balance aurora
+- Chức năng search trên tất cả profiles (Nhấn All kế bên khung search)
+- Chức năng thay đổi cheat words cho tất cả profiles(click vào Save to Other Profiles)
+- Add Solve Media Captcha cho buxhost
+
+
+Update 2.99:
 - Fix PTC E (cr1m3abux,cl1xt3n)
 
 Update 2.98:
