@@ -1,5 +1,5 @@
 ﻿Update 2.101
-- Fix 1 vài lỗi trên PTE
+- Fix 1 vài lỗi trên PTE - (Trên loại PTE thường)
 
 Update 2.100
 - Fix lỗi ko lấy balance aurora
