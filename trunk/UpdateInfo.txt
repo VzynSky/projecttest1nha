@@ -1,4 +1,14 @@
 ﻿Update 2.101
+- Click PTE có giá trị lớn trước (phiên bản trước nhầm lẫn nên click nhỏ trước)
+- Viết riêng các site:
+- Buxp
+- Clixrush
+- buxshare
+- wad.ojoo
+
+* Các site viết riêng thường chống cheat rất tốt, nên các bạn nên test kĩ trước khi sử dụng*
+
+Update 2.101
 - Fix 1 vài lỗi trên PTE - (Trên loại PTE thường)
 
 Update 2.100
