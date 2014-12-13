@@ -1,6 +1,6 @@
 ﻿Update 2.101
 - Click PTE có giá trị lớn trước (phiên bản trước nhầm lẫn nên click nhỏ trước)
-- Viết riêng các site:
+- Viết riêng các site (Phần CustomPlugin -> All1Online ):
 - Buxp
 - Clixrush
 - buxshare
