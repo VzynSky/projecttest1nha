@@ -1,4 +1,8 @@
-﻿Update 2.101
+﻿Update 2.103
+
+- Vượt qua các site PTE có chức năng đợi 5s để refresh trang.
+
+Update 2.102
 - Click PTE có giá trị lớn trước (phiên bản trước nhầm lẫn nên click nhỏ trước)
 - Viết riêng các site (Phần CustomPlugin -> All1Online ):
 - Buxp
