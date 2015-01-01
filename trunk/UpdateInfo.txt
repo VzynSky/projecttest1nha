@@ -1,4 +1,7 @@
-﻿Update 2.103
+﻿Update 2.104
+- Fix cashn
+
+Update 2.103
 
 - Vượt qua các site PTE có chức năng đợi 5s để refresh trang.
 
