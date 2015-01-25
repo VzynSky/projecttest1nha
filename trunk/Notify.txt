@@ -1,2 +1,3 @@
-﻿- Phien ban moi nhat: 2.104
+﻿- Phien ban moi nhat: 2.106
+- Da ho tro gia hang Paypal
 

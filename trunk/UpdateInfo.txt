@@ -1,4 +1,12 @@
-﻿Update 2.104
+﻿Update 2.105
+- Khi add mới 1 site, thông tin sẽ được điền sẵn với site được thêm gần nhất
+- buxbery
+- beatdek.fm
+- 1 vai site PTE ko click Fixed Ad (ptcrevolution)
+- Rombux (Plugin All1Online-RombuxPlugin)
+- Ho tro Paypal
+
+Update 2.104
 - Fix cashn
 
 Update 2.103
