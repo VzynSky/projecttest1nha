@@ -1,4 +1,11 @@
-﻿Update 2.105
+﻿Update 2.106
+ - hispancl1x (PTE)
+ - k00lclix(PTE)
+ - arthacl1x (PTE)
+ - seo-stream (Russ)
+ - buxvertise (PTE)
+ - evo.actionbux (PTE)
+Update 2.105
 - Khi add mới 1 site, thông tin sẽ được điền sẵn với site được thêm gần nhất
 - buxbery
 - beatdek.fm
