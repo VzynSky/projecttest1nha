@@ -1,4 +1,10 @@
-﻿Update 2.106
+﻿Update 2.107
+- evo.actionbux (PTE)
+- trafficm0ns00n.com (all1online-trafic..)
+
+- Plugin: Hỗ trợ hàm vượt captcha PTCEvolution,  hàm lấy captcha của SolveMedia, Recaptcha cũ, và loại mới (code mẫu trong thư mục Plugin)
+
+Update 2.106
  - hispancl1x (PTE)
  - k00lclix(PTE)
  - arthacl1x (PTE)
