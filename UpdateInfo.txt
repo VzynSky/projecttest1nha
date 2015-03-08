@@ -1,4 +1,6 @@
-﻿Update 2.107
+﻿Update 2.108
+- click ad admin cua PTE
+Update 2.107
 - evo.actionbux (PTE)
 - trafficm0ns00n.com (all1online-trafic..)
 
