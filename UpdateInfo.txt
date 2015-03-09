@@ -1,7 +1,8 @@
 ﻿Các version cũ của tool có thể tìm thấy ở:https://code.google.com/p/projecttest1nha/source/browse/#svn%2Ftrunk
 (giải nén và chép đè lên thư mục, nhớ backup tool)
 
-Update 2.109
+Update 2.110
+-- FIX LOI KO BO QUA CHEAT AD o version truoc
 - update lay Recapcha V2
 - click ad admin cua PTE
 Update 2.107
