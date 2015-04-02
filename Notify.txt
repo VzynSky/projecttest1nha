@@ -1,3 +1,3 @@
-﻿- Phien ban moi nhat: 2.108
-- Da ho tro gia hang Paypal
+ - Đến tháng 6, phần mềm sẽ free để bạn nào muốn có thể viết plugin trên đó và sử dụng
+- Thanks các bạn đã sử dụng tool 
 
