@@ -1,4 +1,4 @@
-﻿Update 2.111
+﻿Update 2.112
 - Get Captcha Buxhost
 
 Update 2.110
