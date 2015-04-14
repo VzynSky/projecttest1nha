@@ -1,5 +1,5 @@
-﻿Các version cũ của tool có thể tìm thấy ở:https://code.google.com/p/projecttest1nha/source/browse/#svn%2Ftrunk
-(giải nén và chép đè lên thư mục, nhớ backup tool)
+﻿Update 2.111
+- Get Captcha Buxhost
 
 Update 2.110
 -- FIX LOI KO BO QUA CHEAT AD o version truoc
